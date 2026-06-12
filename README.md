@@ -33,11 +33,16 @@ Task Status Distribution
 CPU vs Memory Usage
 Failure Rate by Cluster
 
+<img width="1920" height="1014" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/79d69b86-b8ac-4ed4-a6cb-a68d75a7cf5c" />
+
 2️⃣ Resource Utilization Analysis
 
 CPU Usage Distribution
 Resource Usage Comparison
 Memory Usage by Machine
+
+<img width="1920" height="1017" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/2302546b-095e-4098-8f40-7a4b66143069" />
+
 
 3️⃣ Failure & Performance Monitoring
 
@@ -46,6 +51,9 @@ Failure Rate KPI
 Cluster Event Analysis
 Cluster Failure Distribution
 
+<img width="1920" height="1014" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/58fc21ad-44c9-48d4-b3b3-b81b47e68fa1" />
+
+
 🛠 Technologies Used
 
 Microsoft Power BI
@@ -53,24 +61,6 @@ Data Visualization
 Data Modeling
 DAX (Data Analysis Expressions)
 
-📷 Dashboard Preview
-
-
-
-
-
-
-
-
-
-
-
-
-Example:
-
-Page 1 – Workload Overview
-Page 2 – Resource Utilization
-Page 3 – Failure Monitoring
 🚀 Future Scope
 
 Real-time system monitoring
